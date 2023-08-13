@@ -1,0 +1,8 @@
+Hei, tässä selainpeli, jonka ohjelmoin javascriptillä vuonna 2018. 
+
+Javascript kurssin udemy.com sivustolta, kurssi löytyy
+nykyään nimellä "The Complete JavaScript Course 2023: From Zero to Expert!", koska sitä päivitetään säännöllisesti.
+Kurssia ylläpitää Jonas Schmedtmann. 
+
+Sovelluksen HTML ja CSS suunnittelu oli tehty valmiiksi, mutta kaikki toiminnallisuus JavaScript koodaus yms. on 
+itse kirjoittamaani. 
